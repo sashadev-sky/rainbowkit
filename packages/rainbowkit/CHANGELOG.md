@@ -1,5 +1,11 @@
 # @rainbow-me/rainbowkit
 
+## 0.2.2
+
+### Patch Changes
+
+- 7403fab: Add dialog overlay blurs to the theme
+
 ## 0.2.1
 
 ### Patch Changes
