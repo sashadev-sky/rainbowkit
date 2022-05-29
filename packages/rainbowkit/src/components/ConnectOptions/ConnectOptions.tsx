@@ -4,7 +4,6 @@ import { DesktopOptions } from './DesktopOptions';
 import { MobileOptions } from './MobileOptions';
 
 export default function ConnectOptions({ onClose }: { onClose: () => void }) {
-  alert(`isMobile: ${isMobile()}`);
   return isMobile() ? (
     <MobileOptions onClose={onClose} />
   ) : (
